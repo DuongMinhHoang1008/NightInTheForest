@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0d6c614d357ec6746ab315f19a553379
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - logPref: {fileID: 516362174655156059, guid: a470f4228961bbf42bb9b1195555738d, type: 3}
+  - wolfPref: {fileID: 3184063387235779725, guid: 110f91c9a3908cf42989854ad85a0a74, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
